@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Decentralized exchange, featuring alerts and market scanners. Powered by Orderly.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Rewards,Vaults",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Rewards,Vaults",
   "VITE_CUSTOM_MENUS": "Alerts, https://reytrade.com/sso/alerts; Scanner, https://reytrade.com/sso/markets",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
